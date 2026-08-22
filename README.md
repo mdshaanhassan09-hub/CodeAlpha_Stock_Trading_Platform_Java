@@ -155,7 +155,7 @@ It is designed as a practical demonstration of **Java programming, OOP concepts,
 ---
 
 ## 👨‍💻 Author
-Md Faizan Hassan
+Md Faizan Hassan <br>
 Java Developer / Computer Science & Engineering Student
 
 **Stock Trading Platform – Java Project**
